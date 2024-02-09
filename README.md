@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I'm a software developer from Korea 🇰🇷
-
-I came to the UK🇬🇧 to challenge myself and prove my ability to survive in a whole new environment.
-I'd say it is one of the ways I'm getting out of my comfort zone! :D
+I came to the UK🇬🇧 to challenge and prove myself to survive in a whole new environment. I'd say it is one of the ways I'm getting out of my comfort zone and I really enjoy this journey so far 
 
 ### Tech
 I mainly work with ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![react](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
